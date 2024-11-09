@@ -52,7 +52,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/WilliamHillesheim/WilliamHillesheim/snake.svg" alt="Snake animation" />
-
-###
   
