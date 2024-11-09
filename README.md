@@ -22,8 +22,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/william_hillesheim/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mateus-hillesheim-9a1390263/)
 <!-- GithubStats -->
+
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamHillesheim&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!-- GIF -->
 <p align="left">
@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/WilliamHillesheim/WilliamHillesheim/snake.svg" alt="Snake animation" />
 
 ###
   
